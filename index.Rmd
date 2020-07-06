@@ -65,4 +65,4 @@ output: html_document
  - 6월 첫째주 > Modeling (모형화)
  - 6월 셋째주 > Visualization (시각화)
  - 6월 넷째주 > 발표 준비를 위한 RMD 자료 작성
- - 7월 첫째주 > 발표
+ - 7월 둘째주 > 발표
